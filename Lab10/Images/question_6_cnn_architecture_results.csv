@@ -1,0 +1,7 @@
+Configuration,Test_Accuracy
+3 Conv Layers (Original),86.871999502182
+2 Conv Layers,85.93599796295166
+1 Conv Layer,87.05199956893921
+Kernel Size 3,86.02799773216248
+Kernel Size 5,86.6599977016449
+Kernel Size 7,86.86800003051758

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab3\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F439C49-565F-4EFD-8F9D-9127CFFA197D}|Lab3.pyproj|C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab3\\Lab3\\Lab3.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8F439C49-565F-4EFD-8F9D-9127CFFA197D}|Lab3.pyproj|solutionrelative:Lab3.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F439C49-565F-4EFD-8F9D-9127CFFA197D}|Lab3.pyproj|C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab3\\Lab3\\linear_reg_advertising.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8F439C49-565F-4EFD-8F9D-9127CFFA197D}|Lab3.pyproj|solutionrelative:linear_reg_advertising.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "linear_reg_advertising.py",
+              "DocumentMoniker": "C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab3\\Lab3\\linear_reg_advertising.py",
+              "RelativeDocumentMoniker": "linear_reg_advertising.py",
+              "ToolTip": "C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab3\\Lab3\\linear_reg_advertising.py",
+              "RelativeToolTip": "linear_reg_advertising.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-08T15:01:02.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab3.py",
+              "DocumentMoniker": "C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab3\\Lab3\\Lab3.py",
+              "RelativeDocumentMoniker": "Lab3.py",
+              "ToolTip": "C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab3\\Lab3\\Lab3.py",
+              "RelativeToolTip": "Lab3.py",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAwF4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-08T13:44:48.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

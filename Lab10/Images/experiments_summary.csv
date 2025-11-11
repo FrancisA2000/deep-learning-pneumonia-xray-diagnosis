@@ -1,0 +1,9 @@
+Question,Test_Accuracy,Rank
+Q7 - MLP Best Dense (16 units),88.46799731254578,1.0
+Q3 - MLP Early Stopping,88.41599822044373,2.0
+Q3 - CNN Early Stopping,87.76800036430359,3.0
+Q5 - MLP Best Embedding (50D),87.76000142097473,4.0
+Q2 - MLP Baseline,87.52400279045105,5.0
+Q6 - CNN Best Architecture,87.05199956893921,6.0
+Q2 - CNN Baseline,86.98800206184387,7.0
+Q4 - CNN Best Embedding (300D),86.89200282096863,8.0

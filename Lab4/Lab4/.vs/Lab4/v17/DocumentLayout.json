@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab4\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5CFE4C-332E-4540-B79E-F95E794DF473}|Lab4.pyproj|C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab4\\Lab4\\KNN_Lab.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EE5CFE4C-332E-4540-B79E-F95E794DF473}|Lab4.pyproj|solutionrelative:KNN_Lab.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5CFE4C-332E-4540-B79E-F95E794DF473}|Lab4.pyproj|C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab4\\Lab4\\Lab4.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EE5CFE4C-332E-4540-B79E-F95E794DF473}|Lab4.pyproj|solutionrelative:Lab4.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 126,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KNN_Lab.py",
+              "DocumentMoniker": "C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab4\\Lab4\\KNN_Lab.py",
+              "RelativeDocumentMoniker": "KNN_Lab.py",
+              "ToolTip": "C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab4\\Lab4\\KNN_Lab.py",
+              "RelativeToolTip": "KNN_Lab.py",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-22T15:17:15.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab4.py",
+              "DocumentMoniker": "C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab4\\Lab4\\Lab4.py",
+              "RelativeDocumentMoniker": "Lab4.py",
+              "ToolTip": "C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab4\\Lab4\\Lab4.py",
+              "RelativeToolTip": "Lab4.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-22T15:12:09.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

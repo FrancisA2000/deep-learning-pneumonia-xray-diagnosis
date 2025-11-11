@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab6\\Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C34BFE7-5E1A-4374-A4C0-E667A8D13055}|Lab6.pyproj|C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab6\\Lab6\\LAB6_Q4.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C34BFE7-5E1A-4374-A4C0-E667A8D13055}|Lab6.pyproj|solutionrelative:LAB6_Q4.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C34BFE7-5E1A-4374-A4C0-E667A8D13055}|Lab6.pyproj|C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab6\\Lab6\\LAB6_Q1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C34BFE7-5E1A-4374-A4C0-E667A8D13055}|Lab6.pyproj|solutionrelative:LAB6_Q1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C34BFE7-5E1A-4374-A4C0-E667A8D13055}|Lab6.pyproj|C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab6\\Lab6\\Lab_MLP_Classifier_Keras.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C34BFE7-5E1A-4374-A4C0-E667A8D13055}|Lab6.pyproj|solutionrelative:Lab_MLP_Classifier_Keras.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB6_Q4.py",
+              "DocumentMoniker": "C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab6\\Lab6\\LAB6_Q4.py",
+              "RelativeDocumentMoniker": "LAB6_Q4.py",
+              "ToolTip": "C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab6\\Lab6\\LAB6_Q4.py",
+              "RelativeToolTip": "LAB6_Q4.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-18T16:30:06.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB6_Q1.py",
+              "DocumentMoniker": "C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab6\\Lab6\\LAB6_Q1.py",
+              "RelativeDocumentMoniker": "LAB6_Q1.py",
+              "ToolTip": "C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab6\\Lab6\\LAB6_Q1.py",
+              "RelativeToolTip": "LAB6_Q1.py",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-18T16:28:52.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab_MLP_Classifier_Keras.py",
+              "DocumentMoniker": "C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab6\\Lab6\\Lab_MLP_Classifier_Keras.py",
+              "RelativeDocumentMoniker": "Lab_MLP_Classifier_Keras.py",
+              "ToolTip": "C:\\Users\\aboud\\Desktop\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05DC\u05D5\u05DE\u05D3\u05D5\u05EA \u05D5\u05DC\u05DE\u05D9\u05D3\u05D4 \u05E2\u05DE\u05D5\u05E7\u05D4\\Lab6\\Lab6\\Lab_MLP_Classifier_Keras.py",
+              "RelativeToolTip": "Lab_MLP_Classifier_Keras.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-04T06:32:59.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Model,Test Accuracy (%)
+MLP Baseline,87.52400279045105
+CNN Baseline,86.98800206184387
